@@ -1,6 +1,6 @@
 package com.maven.java.AnnotationCrud;
 //Add by GitHUB
-//add by github1
+//Add by developer
 import java.util.List;
 
 import org.hibernate.Session;
