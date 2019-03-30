@@ -5,7 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-//Hi Im git
+
 @Entity
 @Table(name="cust_info")
 public class Customer {
